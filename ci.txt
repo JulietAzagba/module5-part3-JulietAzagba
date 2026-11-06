@@ -1,0 +1,5 @@
+# This GitHub Actions CI workflow automatically runs tests
+# when code is pushed to the main branch or a pull request
+# is created. It sets up Python and MongoDB, installs the
+# required dependencies, and runs backend tests to check
+# that the banking application is working correctly.
